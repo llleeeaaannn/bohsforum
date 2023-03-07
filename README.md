@@ -12,3 +12,8 @@ Options:
 
 Forum Framework:
 - NodeBB (Free, OpenSource, NodeJS, Modern)
+- Discourse (Free, Php/Rails, Modern)
+- Flarum (PHP/Java, not very customisable, free)
+
+Current Choice:
+NodeBB 
