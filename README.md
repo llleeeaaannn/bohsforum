@@ -16,4 +16,11 @@ Forum Framework:
 - Flarum (PHP/Java, not very customisable, free)
 
 Current Choice:
-NodeBB 
+NodeBB
+
+Features:
+Homepage
+Different pages for different topics (Bohs, LOI, Other...)
+Each page has its own topics which can be created by any users
+Each topic is an old school forum post (everything in chronological order)
+Replies will be quoted (Show post that is being replied to)
